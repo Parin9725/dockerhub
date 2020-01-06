@@ -1,3 +1,3 @@
 FROM nginx
-CMD echo 'Docker HUB Images 2.0'
+CMD echo 'Docker HUB Images 3.0'
 
